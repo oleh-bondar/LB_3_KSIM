@@ -9,6 +9,10 @@
 
 <br>
 
+#### Вербальний опис моделі:
+
+https://github.com/oleh-bondar/LB_1_KSIM/blob/main/lb.md#L12
+
 ### Налаштування середовища BehaviorSearch:
 
 **Обрана модель**:
